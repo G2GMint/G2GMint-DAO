@@ -1,5 +1,5 @@
 - @G2GMint here, welcome to our DAO project.
 - We are a community of crypto miners with a common goal --- expand our decentralized community & provide a platform allowing anyone to mine with us.
-- Currently, we are in the early tages of our DAO project development
+- Currently, we are in the early stages of our DAO project
 - We are looking to collaborate on this project
 - 📫 How to reach me, email: crypto@gtg.cafe
