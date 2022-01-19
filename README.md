@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GTGMint
+- 👀 I’m interested blockchain development, token creation & smart contract integration
+- 🌱 I’m currently learning Smart Contract integration
+- 💞️ I’m looking to collaborate on a crypto mining DAO project
+- 📫 How to reach me, email: crypto@gtg.cafe
