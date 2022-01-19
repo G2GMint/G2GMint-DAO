@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GTGMint
+- 👋 Hi, I’m @G2GMint
 - 👀 I’m interested blockchain development, token creation & smart contract integration
 - 🌱 I’m currently learning Smart Contract integration
 - 💞️ I’m looking to collaborate on a crypto mining DAO project
