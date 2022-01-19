@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @G2GMint
-- 👀 I’m interested blockchain development, token creation & smart contract integration
-- 🌱 I’m currently learning Smart Contract integration
-- 💞️ I’m looking to collaborate on a crypto mining DAO project
+- @G2GMint here, welcome to our DAO project.
+- We are a community of crypto miners with a common goal --- expand our decentralized community & provide a platform allowing anyone to mine with us.
+- Currently, we are in the early tages of our DAO project development
+- We are looking to collaborate on this project
 - 📫 How to reach me, email: crypto@gtg.cafe
